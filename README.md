@@ -22,3 +22,7 @@ Hattie, J., & Timperley, H. \(2007\). The power of feedback. Review of Education
 
 [Educational Leadership Magazine, September 2012 \(70,1\) ](http://www.ascd.org/publications/educational-leadership/sept12/vol70/num01/toc.aspx)
 
+[https://sites.psu.edu/ptfacultyfellowship/assessment-cycle/](https://sites.psu.edu/ptfacultyfellowship/assessment-cycle/)
+
+[http://www.ascd.org/ASCD/pdf/journals/ed\_lead/el201209\_takeaways.pdf](http://www.ascd.org/ASCD/pdf/journals/ed_lead/el201209_takeaways.pdf)
+

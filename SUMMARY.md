@@ -1,3 +1,6 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Defining Feedback](chapter1.md)
+* Analyzing your Practice
+
