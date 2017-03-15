@@ -2,7 +2,8 @@
 
 * [Introduction](README.md)
 * [Defining Feedback](chapter1.md)
-* Analyzing your Practice
+* [Analyzing your Practice](analyzing-your-practice.md)
 * [SOLO Taxonomy](solo-taxonomy.md)
-* Constructive Alignment
+* [Constructive Alignment](constructive-alignment.md)
+* Investigating your Impact
 

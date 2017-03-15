@@ -14,8 +14,6 @@ After completing this course, you will be able to
 
 [http://www.online.colostate.edu/free-online-courses/student-affairs-assessment/](http://www.online.colostate.edu/free-online-courses/student-affairs-assessment/)
 
-Hattie, J., & Timperley, H. \(2007\). The power of feedback. Review of Educational Research, 77, 81-112. [doi:10.3102/003465430298487](http://rer.sagepub.com/content/77/1/81.abstract)
-
 [http://visiblelearningplus.com/sites/default/files/Feedback%20article.pdf](http://visiblelearningplus.com/sites/default/files/Feedback article.pdf)
 
 [Importance of addressing misconceptions \(Derek Muller\)](https://youtu.be/eVtCO84MDj8)
