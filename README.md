@@ -20,3 +20,5 @@ Hattie, J., & Timperley, H. \(2007\). The power of feedback. Review of Education
 
 [Importance of addressing misconceptions \(Derek Muller\)](https://youtu.be/eVtCO84MDj8)
 
+[Educational Leadership Magazine, September 2012 \(70,1\) ](http://www.ascd.org/publications/educational-leadership/sept12/vol70/num01/toc.aspx)
+
