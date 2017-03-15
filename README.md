@@ -1,3 +1,10 @@
-# My Awesome Book
+# Formative Feedback and Assessment in Higher Ed
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+## Outcomes
+
+
+
+## Resources
+
+[http://www.online.colostate.edu/free-online-courses/student-affairs-assessment/](http://www.online.colostate.edu/free-online-courses/student-affairs-assessment/)
+
