@@ -2,6 +2,14 @@
 
 ## Outcomes
 
+Participants will be able to
+
+1. analyze their current feedback practices;
+2. create appropriate learning outcomes targeted to the academic level of their class;
+3. appraise the degree to which their learning outcomes, learning activities, and assessments are aligned;
+4. investigate the effects of improved feedback on student engagement and learning outcomes;
+5. implement effective feedback strategies to promote deep learning.
+
 
 
 ## Resources
@@ -9,4 +17,6 @@
 [http://www.online.colostate.edu/free-online-courses/student-affairs-assessment/](http://www.online.colostate.edu/free-online-courses/student-affairs-assessment/)
 
 Hattie, J., & Timperley, H. \(2007\). The power of feedback. Review of Educational Research, 77, 81-112. [doi:10.3102/003465430298487](http://rer.sagepub.com/content/77/1/81.abstract)
+
+[http://visiblelearningplus.com/sites/default/files/Feedback%20article.pdf](http://visiblelearningplus.com/sites/default/files/Feedback%20article.pdf)
 
