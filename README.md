@@ -2,11 +2,11 @@
 
 ## Outcomes
 
-Participants will be able to
+After completing this course, you will be able to
 
-1. analyze their current feedback practices;
-2. create new or revise existing learning outcomes appropriate to the academic level of their class;
-3. appraise the degree to which their learning outcomes, learning activities, and assessments are aligned;
+1. analyze your current feedback practices;
+2. create new or revise existing learning outcomes appropriate to the academic level of your class;
+3. appraise the degree to which your learning outcomes, learning activities, and assessments are aligned;
 4. investigate the effects of improved feedback on student engagement and learning outcomes;
 5. implement effective feedback strategies to promote deep learning.
 
