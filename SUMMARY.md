@@ -6,4 +6,5 @@
 * [SOLO Taxonomy](solo-taxonomy.md)
 * [Constructive Alignment](constructive-alignment.md)
 * Investigating your Impact
+* Summary and Reflections
 
