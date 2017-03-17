@@ -24,3 +24,7 @@ After completing this course, you will be able to
 
 [http://www.ascd.org/ASCD/pdf/journals/ed\_lead/el201209\_takeaways.pdf](http://www.ascd.org/ASCD/pdf/journals/ed_lead/el201209_takeaways.pdf)
 
+### Related Resources
+
+[http://teachinginhighered.com/podcast/rethinking-assessment-reflections-lilly-conference/](http://teachinginhighered.com/podcast/rethinking-assessment-reflections-lilly-conference/)
+
