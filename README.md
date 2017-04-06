@@ -18,7 +18,7 @@ After completing this course, you will be able to
 
 ## Introductions
 
-Before you begin the course, please take a few moments to introduce yourself to your colleagues in the 'Introductions' forum. Feel free to include pictures, or links to your social media identities, or other info that you would like to share. You may want to experiment with a format other than text, such as video, audio, or an infographic.
+Before you begin the course, please take a few moments to introduce yourself to your colleagues in the 'Introductions' forum. Feel free to include pictures, links to your social media identities, or other info that you would like to share, but please don't feel compelled to share beyond your own comfort. You may want to experiment with a format other than text, such as video, audio, or an infographic.
 
 ## Resources
 

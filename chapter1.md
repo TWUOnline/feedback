@@ -6,7 +6,7 @@ Please take a few minutes to read Hattie’s recent book section [_Feedback in s
 
 ## Reflection
 
-In the discussion forum, write something about Hattie's view of feedback and include a connection to your own experience.
+In the discussion forum, write something about Hattie's view of feedback and include a connection to your own experience. Keep in mind that this is a discussion forum, so you can feel free to be more conversational than formal in your writing, but please make sure that you attribute ideas and resources that are not your own.
 
 ### Resources
 
