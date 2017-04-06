@@ -4,7 +4,9 @@ Hattie and Timperley \(2007\) identified a model for effective feedback that pro
 
 Please take a few minutes to read Hattie’s recent book section [_Feedback in schools_](http://visiblelearningplus.com/sites/default/files/Feedback article.pdf).
 
+## Reflection
 
+In the discussion forum, write something about Hattie's view of feedback and include a connection to your own experience.
 
 ### Resources
 
