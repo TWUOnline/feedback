@@ -1,5 +1,11 @@
 # Formative Feedback and Assessment in Higher Ed
 
+Welcome to this short course on the topic of formative feedback. The practice of providing high quality feedback to your students is one of the most effective strategies for ensuring that they are able to attain the learning outcomes for your course. Doing so in a manner that they will actually be able to use that feedback to improve their performance (ie. learn) is the essence of 'formative feedback'.
+
+This course is based on scholarly research as well as the experiences of your TWU faculty colleagues who have been investigating how to better serve their students' learning needs and who have been willing to share their expertise and research with us. Your colleagues will be the first to say that they aren't the experts on formative feedback, but they are learning along the way, just as you are. Of particular note are Mike Bodner (HKIN), Sara Pearson (FHSS), Greg Gerber (SoE), and Bruce Shelvey (FHSS).
+
+During this course, you will engage with scholarly literature on the topic, read about how your colleagues are implementing formative feedback into their practice, and start to build your own formative feedback practices in your own classes.
+  
 ## Outcomes
 
 After completing this course, you will be able to

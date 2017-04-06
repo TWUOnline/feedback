@@ -4,6 +4,8 @@ Hattie and Timperley \(2007\) identified a model for effective feedback that pro
 
 Please take a few minutes to read Hattie’s recent book section [_Feedback in schools_](http://visiblelearningplus.com/sites/default/files/Feedback article.pdf).
 
+
+
 ### Resources
 
 [http://www.ascd.org/publications/educational-leadership/sept12/vol70/num01/Good-Feedback-Is-Targeted,-Specific,-Timely.aspx](http://www.ascd.org/publications/educational-leadership/sept12/vol70/num01/Good-Feedback-Is-Targeted,-Specific,-Timely.aspx)
