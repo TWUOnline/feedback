@@ -19,6 +19,8 @@ Please note that it is not our intent to gather information about what you are d
 Once you have identified a gap in your practice, you will need to take some time to dig into some literature. We suggest that you consult 2-3 peer-reviewed articles to begin to get a handle on the precise nature of the gap that you have identified.
 
 Again, if you need assistance, since you may not be familiar with the body of research related to the scholarship of teaching and learning, please don't hesitate to reach out. Our librarians LOVE to help with research!
+[] libguide
+
 
 ###Sharing your Gap
 
