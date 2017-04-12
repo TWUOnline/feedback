@@ -8,7 +8,7 @@ During this course, you will engage with scholarly literature on the topic, read
   
 ## Outcomes
 
-After completing this course, you will be able to
+After completing this course, you are expected to be able to
 
 1. analyze your current feedback practices;
 2. create new or revise existing learning outcomes appropriate to the academic level of your class;
