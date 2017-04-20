@@ -1,17 +1,17 @@
 ###Writing with your reader in mind
 
-“Professor, I know so much less than you, who will give me my grade. So my role is to show youhow much information I am capable of digging up, and after digging up that information, present it in written form;it will be yours to decide whether I’ve found enough.”
+>“Professor, I know so much less than you, who will give me my grade. So my role is to show you how much information I am capable of digging up, and after digging up that information, present it in written form;it will be yours to decide whether I’ve found enough.”
 Result: A pointless exercise.
 
 ###Reader expectations
 
-Word arrangement is a powerful technique of composition.
+* Word arrangement is a powerful technique of composition.
 
-It’s not just what you say, it’s how you say it.
+* It’s not just what you say, it’s how you say it.
 
-And it’s not just the words you use, but where you place them.
+* And it’s not just the words you use, but where you place them.
 
-Word placement and pauses are powerful techniques of emphasis. \(Gopen& Swan, 1990\)
+* Word placement and pauses are powerful techniques of emphasis. \(Gopen& Swan, 1990\)
 
 ###Courses
 
@@ -49,54 +49,50 @@ Purpose:to develop a research proposal that investigates the influence of some v
 
 2. Draft of literature review\(4-5 pages\) March 6th,2017
 
-3. Draft of methods\(6-8 pages\) March29th, 2017
+3. Draft of methods\(6-8 pages\) March 29th, 2017
 
-Resources
+####Resources
 
-Database searching session \(Duncan Dixon\)
+* Database searching session \(Duncan Dixon\)
 
-Checklists for literature searching \(organizing information\)u
+* Checklists for literature searching \(organizing information\)u
 
-To help students with critical assessment of journal articles \(methods and statistics\), provision of practical journal articles written to professional audiences
+* To help students with critical assessment of journal articles \(methods and statistics\), provision of practical journal articles written to professional audiences
 
-Article critique assignment \(helps to ‘scaffold’ the proposal assignment by engaging in the practice of reading articles critically\)
+* Article critique assignment \(helps to ‘scaffold’ the proposal assignment by engaging in the practice of reading articles critically\)
 
-Marking rubric for the proposal assignment given a priori
+* Marking rubric for the proposal assignment given a priori
 
-HKIN 375 Research
+* Students work in pairs \(encourages collaboration\)
 
-Proposal Assignment
+* Students hand in assignment components \(MS Word\), uploaded to MyCourses at specific intervals
 
-Students work in pairs \(encourages collaboration\)
-
-Students hand in assignment components \(MS Word\), uploaded to MyCourses at specific intervals
-
-MS Word ‘Track Changes’ and ‘Comment’ functions to provide feedback; allow for follow-up to see if/how students incorporated feedback
+* MS Word ‘Track Changes’ and ‘Comment’ functions to provide feedback; allow for follow-up to see if/how students incorporated feedback
 
 
 ###Examples of feedback
 
 ####Student paragraph
 
-“Newton’sfirst law of Inertia states that, ‘an object will remain at rest or continue to move with a constant velocity as long as the force acting on it remains at zero’.
+>“Newton’sfirst law of Inertia states that, ‘an object will remain at rest or continue to move with a constant velocity as long as the force acting on it remains at zero’.
 
-This is implicated during the volleyball spike when the athlete needs to overcome their body’s inertia by leaving their state of rest and entering a state of vertical motion.”
+>This is implicated during the volleyball spike when the athlete needs to overcome their body’s inertia by leaving their state of rest and entering a state of vertical motion.”
 
 ####Professor feedback:
 
-“So maybe try to incorporate these laws into a sentence as opposed todefinition.
+>“So maybe try to incorporate these laws into a sentence as opposed to definition.
 
-For example:‘The purpose of the jump phase is to…wherein the player must apply a force of sufficient magnitude to overcome his inertia in order to place his body to a specific place in space \(Newton’s first law\).’
+>For example:‘The purpose of the jump phase is to…wherein the player must apply a force of sufficient magnitude to overcome his inertia in order to place his body to a specific place in space \(Newton’s first law\).’
 
-But do you want to discuss those laws here or is a discussion of changing momentum more apt? What do you think?”
+>But do you want to discuss those laws here or is a discussion of changing momentum more apt? What do you think?”
 
 ####Student paragraph
 
-“These were athletes who had been competing in the sport for over 3 years \(mean = 4.7 +/- 1.4\) and who had been free of injury for 1 full year previous to the testing performed. These individuals were training 12-15 hours per week at high intensity, preparing before a taper for competition.”
+>“These were athletes who had been competing in the sport for over 3 years \(mean = 4.7 +/- 1.4\) and who had been free of injury for 1 full year previous to the testing performed. These individuals were training 12-15 hours per week at high intensity, preparing before a taper for competition.”
 
 ####Professor feedback
 
-“This is good – this gives me a sense of what a ‘trained sprinter’ is. So this can be included in your inclusion criteria.”
+>“This is good – this gives me a sense of what a ‘trained sprinter’ is. So this can be included in your inclusion criteria.”
 
 ###Making formative feedback effective
 
@@ -141,59 +137,12 @@ But do you want to discuss those laws here or is a discussion of changing moment
 ###References
 
 
-Gopen
+* Gopen GD. The sense of structure: Writing from the reader’s perspective. Pearson Longman: New York, 2004
 
-GD. The sense of structure: Writing from the reader’s perspective.
+* Gopen GD. Expectations: Teaching writing from the reader’s perspective. Pearson Longman: New York, 2004
 
-Pearson Longman: New York,
+* Gopen GD, Swan K. The science of scientific writing. American Scientist 78(6):550-558, 1990. 
 
-2004
+* Van Melle E. and Pinchin S. Illuminating evidence-based ideas for effective teaching. The Teaching Doctor. Office of Health Science Education. Queen’s University, 2008.
 
-u
-
-Gopen
-
-GD. Expectations: Teaching writing from the reader’s perspective. Pearson Longman: New York, 2004
-
-u
-
-Gopen
-
-GD, Swan K.
-
-The
-
-science
-
-of
-
-scientific writing.
-
-American Scientist
-
-78\(6
-
-\):
-
-550-558, 1990.
-
-u
-
-Van
-
-Melle
-
-E. and
-
-Pinchin
-
-S. Illuminating evidence-based ideas for effective teaching. The Teaching Doctor. Office of Health Science Education. Queen’s University, 2008.
-
-u
-
-u
-
-
-
-u
 
