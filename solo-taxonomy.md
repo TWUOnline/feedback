@@ -1,6 +1,12 @@
-###Structure of the Observed Learning Outcome
+### Structure of the Observed Learning Outcome
 
+### 3 approaches to teaching
 
+#### What students are.
+
+#### What teachers do.
+
+#### What students do.
 
 ### Resources
 
@@ -8,5 +14,5 @@
 
 [http://create.twu.ca/connect/lessons/lesson-2/](http://create.twu.ca/connect/lessons/lesson-2/)
 
-[Teaching Teaching and Understanding Understanding 2](https://youtu.be/SfloUd3eO_M)
+
 
