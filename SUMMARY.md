@@ -8,4 +8,5 @@
 * [Investigating your Impact](investigating-your-impact.md)
 * [Summary and Reflections](summary-and-reflections.md)
 * [Bodner Slides](bodner-slides.md)
+* [Pearson Slides](pearson-slides.md)
 
