@@ -8,6 +8,9 @@ Please take a few minutes to read Hattie’s recent book section [_Feedback in s
 
 In the discussion forum, write something about Hattie's view of feedback and include a connection to your own experience. Keep in mind that this is a discussion forum, so you can feel free to be more conversational than formal in your writing, but please make sure that you attribute ideas and resources that are not your own.
 
+## Summative vs. Formative Feedback
+
+Biggs, J., & Collis, K. \(1982\). Evaluating the quality of learning: The SOLO taxonomy. New York: Academic Press.
 
 ### Resources
 
