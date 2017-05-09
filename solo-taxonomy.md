@@ -1,6 +1,6 @@
 ### Effective Learning Environments
 
-Biggs & Tang \(2011\) describe two \(stereotypical\) types of students that faculty may encounter in an academic environment, the academically-inclined 'Susan', and the academically disinclined 'Robert'.\[^1\] .
+Biggs & Tang \(2011\) describe two \(stereotypical\) types of students that faculty may encounter in an academic environment, the academically-inclined 'Susan', and the academically disinclined 'Robert'[^1].
 
 ### 3 approaches to teaching
 
@@ -32,5 +32,5 @@ Biggs, J., & Tang, C. \(2011\). Teaching for quality learning at university: Wha
 
 
 
-\[^1\]: I hope that there are no gender stereotypes implied in 'Susan' and 'Robert'.
+[^1]: I hope that there are no gender stereotypes implied in 'Susan' and 'Robert'.
 
