@@ -41,7 +41,7 @@ The first level of teaching blames under-achieving students for being unmotivate
 
 #### What students do.
 
-* student-centred model
+* learning-centred model
 * teaching is to support learning
 * requires teachers to be clear about
   * outcomes
