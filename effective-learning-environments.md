@@ -31,7 +31,7 @@ The first level of teaching blames under-achieving students for being unmotivate
 * differences in learning are attributable to differences in ability or motivation
 * curriculum is 'covered' from the lecturn
 
-#### What teachers do.
+#### What professors do.
 
 * blame-the-teacher model
 * transmission model
