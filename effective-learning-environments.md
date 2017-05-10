@@ -33,6 +33,7 @@ The first level of teaching blames under-achieving students for being unmotivate
 
 #### What professors do.
 
+* blame profs for under-achieving students
 * blame-the-teacher model
 * transmission model
 * student's understanding of concepts is dependent on what the teacher does
