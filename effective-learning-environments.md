@@ -76,6 +76,8 @@ Surface: students use low-level cognitive skills for tasks which require high-le
 
 [http://create.twu.ca/connect/lessons/lesson-2/](http://create.twu.ca/connect/lessons/lesson-2/)
 
+[http://www.colorado.edu/ftep/sites/default/files/attached-files/barrandtaggfromteachingtolearning.pdf](http://www.colorado.edu/ftep/sites/default/files/attached-files/barrandtaggfromteachingtolearning.pdf)
+
 # References
 
 Biggs, J., Kember, D., & Leung, D. Y. P. \(2001\). The revised two-factor Study Process Questionnaire: R-SPQ-2F. British Journal of Educational Psychology, 71, 133-149. doi:10.1348/000709901158433
