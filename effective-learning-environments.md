@@ -29,14 +29,35 @@ The first level of teaching blames under-achieving students for being unmotivate
 * teaching sorts 'good' students from 'bad' students
 * 'learning' is the responsibility of the student and dependent on their ability
 * differences in learning are attributable to differences in ability or motivation
+* curriculum is 'covered' from the lecturn
 
 #### What teachers do.
 
+* blame-the-teacher model
+* transmission model
+* student's understanding of concepts is dependent on what the teacher does
+* focus on teaching techniques
+* teacher-centred classroom
+
 #### What students do.
+
+* student-centred model
+* teaching is to support learning
+* requires teachers to be clear about
+  * outcomes
+  * what outcome attainment looks like
+  * what activities will lead to the attainment of outcomes
+* it's what students do that leads to learning
 
 ### Question
 
 What feedback practices do you think would characterize each of the three levels of thinking about teaching?
+
+### Deep and Surface Approaches
+
+Deep: students use high-level cognitive skills for tasks which require them
+
+Surface: students use low-level cognitive skills for tasks which require high-level cognitive skills
 
 ### Structure of the Observed Learning Outcome
 
