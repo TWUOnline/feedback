@@ -1,5 +1,11 @@
 ### Effective Learning Environments
 
+#### Read
+
+Please take a few minutes to read the first two chapters of [_Teaching for quality learning at university: What the student does_](https://ezproxy.student.twu.ca/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=405333&site=ehost-live&ebv=EB&ppid=pp_3), available through the TWU library as an e-book. You can safely skip the short section on the Bologna Process \(p. 7-9\).
+
+#### Reflect
+
 Biggs & Tang \(2011, p. 5\) describe two \(stereotypical\) types of students that faculty may encounter in an academic environment, the academically-inclined 'Susan', and the academically-disinclined 'Robert'[^1].
 
 > Let us look at two students attending a lecture. Susan is academically committed; she is bright, interested in her studies and wants to do well. She has clear academic or career plans and what she learns is important to her. When she learns, she goes about it in an ‘academic’ way. She comes to the lecture with sound, relevant background knowledge, possibly some questions she wants answering. In the lecture, she finds an answer to a preformed question; it forms the keystone for a particular arch of knowledge she is constructing. Or it may not be the answer she is looking for and she speculates, wondering why it isn’t. In either event, she reflects on the personal significance of what she is learning. Students like Susan virtually teach them-selves; they do not need much help from us. Academics like the Susans – indeed, they were once Susans themselves – so they tend to assume that she represents how most students learn, and they teach accordingly.
@@ -8,25 +14,29 @@ Biggs & Tang \(2011, p. 5\) describe two \(stereotypical\) types of students tha
 
 Biggs & Tang argue that there are a greater proportion of 'Roberts' in university today than there previously have been, and that creates challenges for modern faculty, who may have been more like 'Susan' when they were undergraduates.
 
-#### Read
-
-Please take a few minutes to read the first two chapters of [_Teaching for quality learning at university: What the student does_](https://ezproxy.student.twu.ca/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=405333&site=ehost-live&ebv=EB&ppid=pp_3)_, _available through the TWU library as an e-book. You can safely skip the short section on the Bologna Process \(p. 7-9\).
-
-#### Reflect
-
 Please create a new post in the discussion forum and outline some strategies that you use to close the achievement gap between the 'Roberts' and 'Susans' in your classes.
 
-### 3 approaches to teaching
+### Thinking about Teaching
 
-Biggs, Kember, & Leung \(2001\)
+Biggs & Tang \(2011\) go on to argue that there are three levels of thinking about teaching and how we ought to approach the problem of closing the achievement gap between Robert and Susan. These three levels of thinking sometimes form a progression through which teachers pass over the course of their career.
 
 #### What students are.
+
+The first level of teaching blames under-achieving students for being unmotivated, unable, or unwilling to improve their achievement.
+
+* transmission model of teaching
+* 'teaching' is assumed to be the constant
+* teaching sorts 'good' students from 'bad' students
+* 'learning' is the responsibility of the student and dependent on their ability
+* differences in learning are attributable to differences in ability or motivation
 
 #### What teachers do.
 
 #### What students do.
 
-### 
+### Question
+
+What feedback practices do you think would characterize each of the three levels of thinking about teaching?
 
 ### Structure of the Observed Learning Outcome
 
