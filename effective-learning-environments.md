@@ -1,5 +1,7 @@
 ### Effective Learning Environments
 
+Key to being able to provide effective feedback to students is the first of Hattie's three questions: Where are we going? Hattie focuses the response to that question on students setting learning goals, but it can apply equally well to faculty ensuring that there are academically appropriate learning outcomes clearly identified in their courses and that the activities required of students are designed to actually meet those outcomes.
+
 #### Read
 
 Please take a few minutes to read the first two chapters of [_Teaching for quality learning at university: What the student does_](https://ezproxy.student.twu.ca/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=405333&site=ehost-live&ebv=EB&ppid=pp_3), available through the TWU library as an e-book. You can safely skip the short section on the Bologna Process \(p. 7-9\).
@@ -13,6 +15,12 @@ Biggs & Tang \(2011, p. 5\) describe two \(stereotypical\) types of students tha
 > Now take Robert. He is at university not out of a driving curiosity about a particular subject, or a burning ambition to excel in a particular profession, but to obtain a qualification for a decent job. A few years ago, prior to the Bologna Process say \(see below\), he would never have considered going to university. He is less committed than Susan, possibly not as bright, academically speaking. He has little background of relevant knowledge. He comes to lectures with no or few questions. He wants only to put in sufficient effort to pass and obtain that meal ticket. Robert hears the lecturer say the same words as Susan is hearing but he doesn’t see a keystone, just another brick to be recorded in his lecture notes. He believes that if he can record enough of these bricks and can remember them on cue, he’ll keep out of trouble come exam time.
 
 Biggs & Tang argue that there are a greater proportion of 'Roberts' in university today than there previously have been, and that creates challenges for modern faculty, who may have been more like 'Susan' when they were undergraduates.
+
+On page 6, they provide the following chart to describe the challenge faced by faculty who seek to close the gap between Susan and Robert.
+
+![](/assets/Screen Shot 2017-05-24 at 10.48.16 AM.png)
+
+In passive learning contexts, such as lectures or 'talking head' videos online, students who are more academically engaged can operate at a level required for learning to effectively occur, whereas less academically inclined students will tend to engage in activities that do not meet the requirements for learning the material. Conversely, when higher levels of cognitive engagement are required of students, the engagement levels of all students tends to rise, with less engaged students seeing the greatest benefit from actively engaging in challenging learning activities.
 
 Please create a new post in the discussion forum and outline some strategies that you use to close the achievement gap between the 'Roberts' and 'Susans' in your classes.
 
