@@ -41,6 +41,8 @@ The first level of teaching blames under-achieving students for being unmotivate
 
 #### What professors do.
 
+The second level of teaching blames professors for not using the proper techniques to engage students and leads to reliance on gimmicks \(PowerPoint, Prezi, clickers\) and neuro-myths \(learning styles, Myers-Briggs\).
+
 * blame profs for under-achieving students
 * blame-the-teacher model
 * transmission model
@@ -49,6 +51,8 @@ The first level of teaching blames under-achieving students for being unmotivate
 * teacher-centred classroom
 
 #### What students do.
+
+The third level of understanding teaching and learning is a learning-centred model[^2]. The focus here is on the specific activities students engage in to attain the learning outcomes
 
 * learning-centred model
 * teaching is to support learning
@@ -94,3 +98,4 @@ Biggs, J., & Tang, C. \(2011\). Teaching for quality learning at university: Wha
 
 [^1]: I hope that there are no gender stereotypes implied in 'Susan' and 'Robert'.
 
+[^2]: Biggs and Tang refer to a 'student-centred' model, but we use 'learning-centred' to avoid the perception that we intend to coddle our students and bend over backwards to meet their desires.
