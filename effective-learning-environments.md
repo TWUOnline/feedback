@@ -1,6 +1,6 @@
 ### Effective Learning Environments
 
-Key to being able to provide effective feedback to students is the first of Hattie's three questions: Where are we going? Hattie focuses the response to that question on students setting learning goals, but it can apply equally well to faculty ensuring that there are academically appropriate learning outcomes clearly identified in their courses and that the activities required of students are designed to actually meet those outcomes.
+Key to being able to provide effective feedback to students is the first of Hattie's three questions: Where are we going? Hattie focuses his response to that question on students setting learning goals, but it can apply equally well to faculty ensuring that there are academically appropriate learning outcomes clearly identified in their courses and that the activities required of students are designed to actually meet those outcomes.
 
 #### Read
 
