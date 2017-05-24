@@ -66,21 +66,7 @@ The third level of understanding teaching and learning is a learning-centred mod
 
 What feedback practices do you think would characterize each of the three levels of thinking about teaching?
 
-### Deep and Surface Approaches
 
-Deep: students use high-level cognitive skills for tasks which require them
-
-Surface: students use low-level cognitive skills for tasks which require high-level cognitive skills
-
-### Structure of the Observed Learning Outcome
-
-* Useful for designing outcomes, for assessing student work, and for providing feedback.
-* 5 levels
-  * pre-structural
-  * uni-structural
-  * multi-structural
-  * relational
-  * extended abstract 
 
 ### Resources
 

@@ -9,4 +9,5 @@
 * [Summary and Reflections](summary-and-reflections.md)
 * [Bodner Slides](bodner-slides.md)
 * [Pearson Slides](pearson-slides.md)
+* [Deep and Surface Approaches to Learning](deep-and-surface-approaches-to-learning.md)
 
