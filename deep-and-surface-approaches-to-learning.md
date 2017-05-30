@@ -14,9 +14,13 @@ The second category of influences is the learning-focused activities in which st
 
 > If students are to learn desired outcomes in a reasonably effective manner, then the teacher’s fundamental task is to get students to engage in learning activities that are likely to result in their achieving those outcomes. It is important to remember that what the student does is more important than what the teacher does. \(Shuell, 1986, p. 429\)
 
-Deep: students use high-level cognitive skills for tasks which require them
+The question then becomes how to ensure that students are engaging in activities that are most likely to lead to them being able to attain the learning outcomes. As shown in the 3P model, the answer to that question depends on student preferences, the teaching context, and the nature of the learning outcomes.
 
-Surface: students use low-level cognitive skills for tasks which require high-level cognitive skills
+Biggs, Kember, and Leung suggest that students typically take either a deep or a surface approach to any given learning activity
+
+Deep approaches are characterized by students using high-level cognitive skills for tasks which require them. Surface approaches are characterized by students using low-level cognitive skills for tasks which require high-level cognitive skills.
+
+It may be that a given assessment task requires a relatively low-level cognitive skill, such as memorizing a mathematical formula, or a set of key dates in history. This is not necessarily a surface approach in that it is the appropriate strategy for attaining the outcome.\[^1\]
 
 ##### Structure of the Observed Learning Outcome
 
@@ -28,14 +32,13 @@ Surface: students use low-level cognitive skills for tasks which require high-le
   * relational
   * extended abstract 
 
-
-
 ##### References
 
-  
 Biggs, J., Kember, D., & Leung, D. Y. P. \(2001\). The revised two-factor Study Process Questionnaire: R-SPQ-2F. British Journal of Educational Psychology, 71, 133-149. doi:10.1348/000709901158433
 
 Shuell, T. J. \(1986\). Cognitive conceptions of learning. Review of Educational Research, 56, 411-436. doi:10.3102/00346543056004411
 
 
+
+\[^1\]: It may indeed be argued that this type of learning activity is inappropriate for higher education, but that is not the fault of the student, but the fault of whomever created an outcome that only requires memorization.
 
