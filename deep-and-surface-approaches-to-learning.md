@@ -40,5 +40,5 @@ Shuell, T. J. \(1986\). Cognitive conceptions of learning. Review of Educational
 
 
 
-[^1]: It may indeed be argued that this type of learning activity is inappropriate for higher education, but that is not the fault of the student, but the fault of whomever created an outcome that only requires memorization.
+[1]: It may indeed be argued that this type of learning activity is inappropriate for higher education, but that is not the fault of the student, but the fault of whomever created an outcome that only requires memorization.
 
