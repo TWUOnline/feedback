@@ -16,11 +16,15 @@ The second category of influences is the learning-focused activities in which st
 
 The question then becomes how to ensure that students are engaging in activities that are most likely to lead to them being able to attain the learning outcomes. As shown in the 3P model, the answer to that question depends on student preferences, the teaching context, and the nature of the learning outcomes.
 
-Biggs, Kember, and Leung suggest that students typically take either a deep or a surface approach to any given learning activity
+Biggs, Kember, and Leung suggest that students typically take either a deep or a surface approach to any given learning activity.
 
 Deep approaches are characterized by students using high-level cognitive skills for tasks which require them. Surface approaches are characterized by students using low-level cognitive skills for tasks which require high-level cognitive skills.
 
 It may be that a given assessment task requires a relatively low-level cognitive skill, such as memorizing a mathematical formula, or a set of key dates in history. This is not necessarily a surface approach in that it is the appropriate strategy for attaining the outcome.[^1]
+
+An example of a surface approach is the student who relies on memorizing facts in a module that is overloaded with content and assessed by a poorly-designed multiple guess exam. In this case the teaching context is influencing the student's approach regardless of whether the outcome is good or not.
+
+The same student may meet the same outcome through the use of high-level cognitive skills if the amount of content in the module is reduced and assessed through the creation of a reflective portfolio.
 
 Recall the discussion of the three different levels of thinking about teaching. Faculty who focus their efforts on student factors in the 3P model are following a 'blame the student' ethos, while faculty who focus on the teaching context are blaming faculty for students not attaining outcomes. 
 
