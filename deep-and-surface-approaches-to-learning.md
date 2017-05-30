@@ -30,15 +30,6 @@ Recall the discussion of the three different levels of thinking about teaching. 
 
 Conversely, a learning-centred environment is focused on all three categories of factors in the 3P model with a distinct emphasis on ensuring that students are using appropriate cognitive skills to attain outcomes.
  
-##### Structure of the Observed Learning Outcome
-
-* Useful for designing outcomes, for assessing student work, and for providing feedback.
-* 5 levels
-  * pre-structural
-  * uni-structural
-  * multi-structural
-  * relational
-  * extended abstract 
 
 ##### References
 

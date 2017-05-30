@@ -9,4 +9,5 @@
 * [Investigating your Impact](investigating-your-impact.md)
 * [Summary and Reflections](summary-and-reflections.md)
 * [Bodner Slides](bodner-slides.md)
+* [Structure of the Observed Learning Outcome \(SOLO\)](structure-of-the-observed-learning-outcome-solo.md)
 
