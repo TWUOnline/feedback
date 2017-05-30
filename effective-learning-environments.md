@@ -30,7 +30,7 @@ Biggs & Tang \(2011\) go on to argue that there are three levels of thinking abo
 
 #### What students are.
 
-The first level of teaching blames under-achieving students for being unmotivated, unable, or unwilling to improve their achievement.
+The first level of teaching blames under-achieving students for being unmotivated, unable, or unwilling to improve their achievement. Some characteristics of the 'Blame the Student' model are:
 
 * transmission model of teaching
 * 'teaching' is assumed to be the constant
@@ -44,7 +44,6 @@ The first level of teaching blames under-achieving students for being unmotivate
 The second level of teaching blames professors for not using the proper techniques to engage students and leads to reliance on gimmicks \(PowerPoint, Prezi, clickers\) and neuro-myths \(learning styles, Myers-Briggs\).
 
 * blame profs for under-achieving students
-* blame-the-teacher model
 * transmission model
 * student's understanding of concepts is dependent on what the teacher does
 * focus on teaching techniques
@@ -60,13 +59,11 @@ The third level of understanding teaching and learning is a learning-centred mod
   * outcomes
   * what outcome attainment looks like
   * what activities will lead to the attainment of outcomes
-* it's what students do that leads to learning
+* it's what students _do_ that leads to learning
 
 ### Question
 
 What feedback practices do you think would characterize each of the three levels of thinking about teaching?
-
-
 
 ### Resources
 
@@ -85,3 +82,4 @@ Biggs, J., & Tang, C. \(2011\). Teaching for quality learning at university: Wha
 [^1]: I hope that there are no gender stereotypes implied in 'Susan' and 'Robert'.
 
 [^2]: Biggs and Tang refer to a 'student-centred' model, but we use 'learning-centred' to avoid the perception that we intend to coddle our students and bend over backwards to meet their desires.
+
