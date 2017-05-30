@@ -20,7 +20,7 @@ Biggs, Kember, and Leung suggest that students typically take either a deep or a
 
 Deep approaches are characterized by students using high-level cognitive skills for tasks which require them. Surface approaches are characterized by students using low-level cognitive skills for tasks which require high-level cognitive skills.
 
-It may be that a given assessment task requires a relatively low-level cognitive skill, such as memorizing a mathematical formula, or a set of key dates in history. This is not necessarily a surface approach in that it is the appropriate strategy for attaining the outcome.\[^1\]
+It may be that a given assessment task requires a relatively low-level cognitive skill, such as memorizing a mathematical formula, or a set of key dates in history. This is not necessarily a surface approach in that it is the appropriate strategy for attaining the outcome.[^1]
 
 ##### Structure of the Observed Learning Outcome
 
@@ -40,5 +40,5 @@ Shuell, T. J. \(1986\). Cognitive conceptions of learning. Review of Educational
 
 
 
-\[^1\]: It may indeed be argued that this type of learning activity is inappropriate for higher education, but that is not the fault of the student, but the fault of whomever created an outcome that only requires memorization.
+[^1]: It may indeed be argued that this type of learning activity is inappropriate for higher education, but that is not the fault of the student, but the fault of whomever created an outcome that only requires memorization.
 
