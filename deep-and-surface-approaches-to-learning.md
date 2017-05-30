@@ -22,6 +22,10 @@ Deep approaches are characterized by students using high-level cognitive skills 
 
 It may be that a given assessment task requires a relatively low-level cognitive skill, such as memorizing a mathematical formula, or a set of key dates in history. This is not necessarily a surface approach in that it is the appropriate strategy for attaining the outcome.[^1]
 
+Recall the discussion of the three different levels of thinking about teaching. Faculty who focus their efforts on student factors in the 3P model are following a 'blame the student' ethos, while faculty who focus on the teaching context are blaming faculty for students not attaining outcomes. 
+
+Conversely, a learning-centred environment is focused on all three categories of factors in the 3P model with a distinct emphasis on ensuring that students are using appropriate cognitive skills to attain outcomes.
+ 
 ##### Structure of the Observed Learning Outcome
 
 * Useful for designing outcomes, for assessing student work, and for providing feedback.
